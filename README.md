@@ -1,4 +1,4 @@
-Closed-Beta
+YogaClicks Closed-Beta
 ===========
 
 Record issues found during closed beta
