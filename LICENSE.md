@@ -1,4 +1,5 @@
 Terms of use
+--------------
 This page (together with the documents referred to on it) tells you the Terms of Use on which you may use our website www.yogaclicks.com (“Website”), whether as a guest or a registered user, whether for a fee or for free and whether on a permanent or a trial basis. Please read these Terms of Use carefully before using this Website. Your attention is particularly drawn to the following:
 
 Our Privacy Policy – which tells you how we use your registration data and other information we collect about you.
