@@ -1,4 +1,9 @@
-           <h1>Terms of use</h1>
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<h1>Terms of use</h1>
 
             <p>This page (together with the documents referred to on it) tells you the Terms of Use on which you may use our website www.yogaclicks.com <strong>(“Website”)</strong>, whether as a guest or a registered user, whether for a fee or for free and whether on a permanent or a trial basis. Please read these Terms of Use carefully before using this Website.  Your attention is particularly drawn to the following:</p>
             <ul>
@@ -220,3 +225,5 @@
                 <p>Email: <a href="mailto:account@yogaclicks.com">account@yogaclicks.com</a></p>
                 <p>Thank you for using <a href="http://www.yogaclicks.com">www.yogaclicks.com</a>.</p>
                 <p>Terms of Use effective as of 23 January 2013.</p>
+ </body>
+ </html>
